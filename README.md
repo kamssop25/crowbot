@@ -7,8 +7,8 @@ Hey, version qui marche du naoki
 -faite `node index.js` **dans le terminal pour start le bot**
 
 # Code à
-https://github.com/Betaaaaaaaaaaa/naoki-yoko-perso/
+https://github.com/kamssop/naoki-yoko-perso/
 
 # Contact Me
 
-Discord : !salah#2200
+Discord : !
