@@ -1,5 +1,5 @@
 # naoki-yoko-perso
-Hey, version qui marche du naoki
+Hey, version qui marche du crowbotv2
 
 # Instalation
 
@@ -7,7 +7,7 @@ Hey, version qui marche du naoki
 -faite `node index.js` **dans le terminal pour start le bot**
 
 # Code à
-https://github.com/kamssop/naoki-yoko-perso/
+https://github.com/kamssop/crowbot/
 
 # Contact Me
 
